@@ -1,7 +1,7 @@
 def get_shopee_data():
     print("Đang lấy dữ liệu từ Shopee...")
     # Giả lập việc lấy được 150 dòng dữ liệu
-    data_count = 150 
+    data_count = 170 
     print(f"Thành công! Lấy được {data_count} sản phẩm.")
     return data_count
 
